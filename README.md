@@ -1,5 +1,4 @@
-# wode.github.io
-<!DOCTYPE html>  
+# wode.github.io  
 <html lang="zh-CN">  
 <head>  
     <meta charset="UTF-8">  
